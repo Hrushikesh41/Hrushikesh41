@@ -8,6 +8,8 @@ Full Stack Web Developer
 * 🖥️  See my portfolio at [Hrushikesh Kokardekar](http://hrushikesh-dev.vercel.app)
 * ✉️  You can contact me at [hrushikesh.kok@gmail.com](mailto:hrushikesh.kok@gmail.com)
 
+[![wakatime](https://wakatime.com/badge/user/8ed352ac-88ae-43c7-b9ce-5db6fe82d3b9.svg)](https://wakatime.com/@8ed352ac-88ae-43c7-b9ce-5db6fe82d3b9)
+
 <a href="https://www.twitter.com/HrushikeshKok" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HrushikeshKok?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
