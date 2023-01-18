@@ -21,7 +21,7 @@ src="https://img.shields.io/twitter/follow/HrushikeshKok?logo=twitter&style=for-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,mongodb,bootstrap" /><br/>
     <img src="https://skillicons.dev/icons?i=androidstudio,java,python,php,astro,arduino,dotnet,firebase" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,jquery,mysql,redux,sass" />
+    <img src="https://skillicons.dev/icons?i=git,jquery,mysql,redux,sass,vite" />
   </a>
 </p>
 
